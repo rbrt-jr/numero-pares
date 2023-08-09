@@ -1,6 +1,8 @@
 ﻿
 List<int> numeros = new List<int> {1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 66 };
 
+
+Console.WriteLine("Olá! É apenas um teste de comandos.");
 for (int i = 0; i < numeros.Count; i++)
 {
     Console.Write(numeros[i]+", ");
